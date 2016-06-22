@@ -1,0 +1,53 @@
+D:\Testing\POC\Selenium\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\obj\Debug\ProyectoDeTest-ConPatron.csprojResolveAssemblyReference.cache
+D:\Testing\POC\Selenium\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\ProyectoDeTest-ConPatron.dll
+D:\Testing\POC\Selenium\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\ProyectoDeTest-ConPatron.pdb
+D:\Testing\POC\Selenium\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Testing\POC\Selenium\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Testing\POC\Selenium\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\WebDriver.dll
+D:\Testing\POC\Selenium\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\WebDriver.Support.dll
+D:\Testing\POC\Selenium\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+D:\Testing\POC\Selenium\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\Testing\POC\Selenium\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+D:\Testing\POC\Selenium\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\Testing\POC\Selenium\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\WebDriver.pdb
+D:\Testing\POC\Selenium\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\WebDriver.xml
+D:\Testing\POC\Selenium\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\WebDriver.Support.pdb
+D:\Testing\POC\Selenium\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\WebDriver.Support.xml
+D:\Testing\POC\Selenium\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\obj\Debug\ProyectoDeTest-ConPatron.dll
+D:\Testing\POC\Selenium\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\obj\Debug\ProyectoDeTest-ConPatron.pdb
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\ProyectoDeTest-ConPatron.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\ProyectoDeTest-ConPatron.pdb
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\WebDriver.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\WebDriver.Support.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\WebDriver.pdb
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\WebDriver.xml
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\WebDriver.Support.pdb
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\WebDriver.Support.xml
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\obj\Debug\ProyectoDeTest-ConPatron.csprojResolveAssemblyReference.cache
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\obj\Debug\ProyectoDeTest-ConPatron.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\obj\Debug\ProyectoDeTest-ConPatron.pdb
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\ProyectoDeTest-ConPatron.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\ProyectoDeTest-ConPatron.pdb
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\WebDriver.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\WebDriver.Support.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\WebDriver.pdb
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\WebDriver.xml
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\WebDriver.Support.pdb
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\bin\Debug\WebDriver.Support.xml
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\obj\Debug\ProyectoDeTest-ConPatron.csprojResolveAssemblyReference.cache
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\obj\Debug\ProyectoDeTest-ConPatron.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\ProyectoDeTest-ConPatron\ProyectoDeTest-ConPatron\obj\Debug\ProyectoDeTest-ConPatron.pdb

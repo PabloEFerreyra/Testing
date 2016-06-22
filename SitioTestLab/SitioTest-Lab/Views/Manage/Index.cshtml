@@ -1,0 +1,27 @@
+﻿@model SitioTest_Lab.Models.IndexViewModel
+@{
+    ViewBag.Title = "Modificación";
+}
+
+<div>
+    <h2>Modificación de configuración.</h2>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>Password:</dt>
+        <dd>
+            [
+            @if (Model.HasPassword)
+            {
+                @Html.ActionLink("Cambiar password", "ChangePassword")
+            }
+            else
+            {
+                @Html.ActionLink("Crear", "SetPassword")
+            }
+            ]
+        </dd>
+    </dl>
+    
+    <p class="text-success">@ViewBag.StatusMessage</p>
+
+</div>

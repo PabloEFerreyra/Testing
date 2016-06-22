@@ -1,0 +1,110 @@
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\SitioTest-Lab.dll.config
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\SitioTest-Lab.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\SitioTest-Lab.pdb
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Antlr3.Runtime.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\EntityFramework.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\EntityFramework.SqlServer.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.Google.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Web.Infrastructure.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Newtonsoft.Json.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Owin.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.Helpers.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.Mvc.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.Optimization.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.Razor.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.WebPages.Deployment.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.WebPages.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.WebPages.Razor.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\WebGrease.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.Helpers.xml
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.Mvc.xml
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.Optimization.xml
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.Razor.xml
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.WebPages.xml
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.WebPages.Deployment.xml
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.WebPages.Razor.xml
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Antlr3.Runtime.pdb
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Newtonsoft.Json.xml
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\EntityFramework.xml
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\EntityFramework.SqlServer.xml
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.xml
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.xml
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.Google.xml
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\obj\Release\SitioTest-Lab.csprojResolveAssemblyReference.cache
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\obj\Release\SitioTest-Lab.dll
+D:\Testing\2016\Workshop Testing\Material Hexacta Lab de Testing\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\obj\Release\SitioTest-Lab.pdb
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\SitioTest-Lab.dll.config
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\SitioTest-Lab.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\SitioTest-Lab.pdb
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Antlr3.Runtime.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\EntityFramework.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\EntityFramework.SqlServer.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Newtonsoft.Json.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Owin.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.Helpers.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.Mvc.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.Optimization.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.Razor.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.WebPages.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.WebPages.Razor.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\WebGrease.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.Helpers.xml
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.Mvc.xml
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.Optimization.xml
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.Razor.xml
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.WebPages.xml
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\System.Web.WebPages.Razor.xml
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Antlr3.Runtime.pdb
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Newtonsoft.Json.xml
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\EntityFramework.xml
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\EntityFramework.SqlServer.xml
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.xml
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.xml
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\obj\Release\SitioTest-Lab.csprojResolveAssemblyReference.cache
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\obj\Release\SitioTest-Lab.dll
+C:\Users\pablo\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoHexactaLabTesting\SitioTestLab\SitioTest-Lab\obj\Release\SitioTest-Lab.pdb
